@@ -1,0 +1,1 @@
+This repo will contain random work from my artifical intelligence class
